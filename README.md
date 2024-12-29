@@ -30,13 +30,11 @@ mkdocs new .
 
 
 <!--
-
     Reference to Similar Blogs.
 
     - https://github.com/Andre601/blog
     - https://github.com/4kelly/material-mkdocs-blog
     - https://github.com/timvink/personal-site
     - https://github.com/james-willett/jameswillett.dev/tree/main
-
 
  -->
