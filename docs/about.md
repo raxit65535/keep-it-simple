@@ -211,7 +211,7 @@ Hi, I'm **Raxitkumar Solanki**, a passionate Software Developer and Open Source 
 
 ---
 
-### **[Recommendations and MapReduce pipelines]**
+### **Recommendations and MapReduce pipelines**
 - **Description**: Group of data pipelines for generating books recommendation and data analysis using Apache Hadoop.
 - **Technologies**: Apache Hadoop, MapReduce, Python, Tableau
 - **GitHub**: [GitHub Repo](https://github.com/raxit65535/Big-Data-FInals)
