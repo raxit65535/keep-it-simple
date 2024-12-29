@@ -1,0 +1,143 @@
+site_name: Keep It Simple
+site_description: Personal blog of Raxit Solanki
+site_url: https://jameswillett.dev
+site_author: Raxit Solanki
+# repo_url: https://github.com/raxit65535/keep-it-simple
+# repo_name: raxit65535/keep-it-simple
+
+theme:
+  name: material
+  icon:
+    logo: material/infinity
+  custom_dir: overrides
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      accent: light blue
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      accent: light blue
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_url_format: "{slug}"
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'      
+  # - git-committers:
+  #     enabled: true
+  #     repository: raxit65535/keep-it-simple
+  #     branch: main
+  #     token: !ENV GH_TOKEN
+  # - git-revision-date-localized:
+  #     type: date
+  #     fallback_to_build_date: false
+  #     enable_creation_date: true
+  #     enabled: true
+  # - glightbox:
+  #     touchNavigation: false
+  #     loop: false
+  #     effect: zoom
+  #     width: 100%
+  #     height: auto
+  #     zoomable: true
+  #     draggable: true
+  # - minify:
+  #     minify_html: true
+  - tags:
+      tags_file: tags.md
+  # - rss:
+  #     match_path: "posts/.*"
+  #     pretty_print: false
+  #     rss_feed_enabled: true
+  #     date_from_meta:
+  #       as_creation: date.created
+  #       as_update: date.updated
+
+extra:
+  generator: false
+  # analytics:
+  #   provider: google
+  #   property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@raxit696
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/raxit65535
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/raxit65535
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/raxit65535
+
+extra_css:
+  - stylesheets/extra.css
+
+hooks:
+  - hooks/socialmedia.py
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/raxit65535"  target="_blank" rel="noopener">Raxit Solanki</a>
+
+nav:
+  - about.md
+  - index.md
+  - Tags: tags.md
+  
