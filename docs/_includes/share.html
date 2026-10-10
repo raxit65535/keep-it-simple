@@ -1,0 +1,20 @@
+<nav id="article-share" hidden aria-label="Share this article">
+  <a data-service="x">Share on X</a>
+  <a data-service="linkedin">Share on LinkedIn</a>
+</nav>
+<script>
+(() => {
+  const nav = document.getElementById('article-share');
+  if (!nav || !document.body.classList.contains('article')) return;
+  const canonical = document.querySelector('link[rel="canonical"]');
+  const url = canonical ? canonical.href : location.href.split('#')[0];
+  const x = new URL('https://x.com/intent/tweet');
+  x.searchParams.set('url', url);
+  x.searchParams.set('text', document.title);
+  const linkedin = new URL('https://www.linkedin.com/sharing/share-offsite/');
+  linkedin.searchParams.set('url', url);
+  nav.querySelector('[data-service="x"]').href = x.href;
+  nav.querySelector('[data-service="linkedin"]').href = linkedin.href;
+  nav.hidden = false;
+})();
+</script>

@@ -1,0 +1,138 @@
+---
+title: About / CV
+description: Raxitkumar Solanki — background, engineering experience, and contact information.
+---
+
+Hi, I'm **Raxitkumar Solanki**, also known professionally as **Raxit Solanki**.
+I work on data engineering, streaming systems, and machine-learning
+infrastructure, using Go (Golang), Python, Apache Kafka, AWS, and Google Cloud.
+My [LinkedIn profile](https://www.linkedin.com/in/raxit65535/) connects this
+engineering background with earlier research and published technical work.
+
+Explore my [engineering projects](../contributions/index.qmd),
+[published artifacts](../publications/index.qmd), and
+[presentations](../talks/index.qmd).
+
+## Education
+
+- **Masters in Computer Science**, California State University Fullerton, 2019
+- **Bachelors in Information Technology**, Ganpat University, 2014
+
+[CSUF institutional research context](../recognition/index.qmd#institutional-recognition)
+is recorded separately from personal awards.
+
+## Research and publications
+
+My research background connects distributed computing and applied machine
+learning with earlier work on educational software and connected-device security:
+
+- **Streaming data pipelines:** my 2019 CSUF thesis,
+  [Git-Archive Data Pipeline](../publications/git-archive-data-pipeline/index.qmd),
+  explores scalable pipelines and streaming graph processing with Kafka and Flink.
+- **Applied machine learning:** I coauthored
+  [Prediction of Crop Cultivation](../publications/prediction-of-crop-cultivation/index.qmd)
+  for IEEE CCWC 2019, comparing regression approaches for crop-yield prediction.
+- **Distributed analytics:** I am the first-listed author of the CCWC 2019 paper
+  on [Hadoop and Apache Mahout](../publications/hadoop-apache-mahout/index.qmd).
+- **Educational software:** my 2016 article
+  [Online Examination Empowerment](../publications/online-examination-empowerment/index.qmd)
+  describes a Java-based examination-preparation framework developed at Ganpat University.
+- **IoT security:** my 2016
+  [survey article](../publications/iot-security-concerns/index.qmd)
+  examines connected-device applications and security concerns.
+
+The [Publications collection](../publications/index.qmd) preserves complete author
+lists, venues, source links, and citations. These published records are distinct
+from my current [research interests and exploratory workflows](../research/index.qmd).
+
+## Experience
+
+### Sr. Software Engineer at Shipt Inc
+
+San Francisco · May 2020–Present
+
+- Increased retail profitability by 7% through the design and implementation of
+  MLOps pipelines, integrating real-time ML models into pricing systems.
+- Built real-time microservices and ETL pipelines using Golang, Python, Apache
+  Spark, and Kafka, reducing processing latency by 40%.
+- Architected and deployed scalable cloud infrastructure on AWS and GCP with
+  disaster recovery capabilities.
+- Developed automation scripts in Golang and Python, improving operational
+  efficiency and minimizing manual intervention.
+
+### Data Engineer at Minted LLC
+
+San Francisco · February 2020–May 2020
+
+- Created Apache Spark streaming pipelines to capture web page load metrics,
+  improving user experience analysis.
+- Designed Snowflake materialized views for user journey analysis, empowering
+  data science teams.
+
+### Data Engineer at Globe Life Insurance
+
+Los Angeles · September 2019–January 2020
+
+- Built batch and real-time data pipelines using AWS Glue, AWS Batch, and Apache Spark.
+- Reduced ETL deployment time by 30% with CI/CD workflows using AWS CloudFormation
+  and CodePipeline.
+- Automated daily reporting with AWS Athena, improving stakeholder decision-making.
+
+### Data Engineer Intern at Insight Data Science
+
+San Francisco · June 2019–August 2019
+
+- Deployed a multi-node Spark and Kafka cluster on AWS EC2 to simulate 1TB of taxi
+  ride data, optimizing ride-matching algorithms.
+- Built a real-time monitoring dashboard with Spring Boot and ChartJS for visualizing key metrics.
+
+### Developer Assistant at Pollak Library, CSUF
+
+Fullerton · August 2017–April 2019
+
+- Developed Python-based web crawlers using BeautifulSoup and Selenium to gather faculty publications.
+- Maintained and tested Python and Golang code libraries, ensuring compliance with accessibility standards.
+
+### Software Engineer Intern at Ujobi Inc
+
+Fullerton · January 2017–June 2017
+
+- Enhanced platform functionality through feature development and bug fixes.
+- Tech stack: Python, HTML/CSS, JavaScript, MongoDB, AWS EC2.
+
+### Data Engineer at eClinicalWorks India Pvt Ltd
+
+Gujarat · July 2014–February 2015
+
+- Developed Java MapReduce-based ETL pipelines for health insurance claims,
+  optimizing data storage.
+- Used Hive queries and Python scripts for data visualization on dashboards.
+
+### Research Assistant at Ganpat University
+
+Gujarat · January 2014–May 2014
+
+- Worked on online-examination software at the Utkarsh research center,
+  U.V. Patel College of Engineering. The Gate Empowerment project is listed on
+  my LinkedIn profile for January–May 2014.
+- The later [Online Examination Empowerment publication](../publications/online-examination-empowerment/index.qmd)
+  documents the framework's design and local testing; the journal issue is dated July 2016.
+
+## Skills
+
+| Area | Technologies and practices |
+| --- | --- |
+| Programming | Golang, Python, Java, C++ |
+| Cloud | AWS, Google Cloud |
+| Data engineering | Spark, Kafka, Flink, Airflow, Snowflake, BigQuery, AWS Glue, Athena, Hadoop, Hive |
+| Automation and DevOps | Docker, Kubernetes, Terraform, shell scripting, Jenkins, Drone/Concourse CI/CD |
+| Databases | PostgreSQL, MySQL, Redis, BigTable, DuckDB, MongoDB, Cassandra |
+| Architecture | Microservices, REST, gRPC, service-oriented architecture, ETL/ELT, data lakehouses |
+| Development | Git, Agile/Scrum, Jira, ClickUp |
+
+## Contact and profiles
+
+- [Email](mailto:sraxit65535@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/raxit65535/)
+- [GitHub](https://github.com/raxit65535)
+- [YouTube](https://www.youtube.com/@raxit696)

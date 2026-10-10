@@ -1,0 +1,127 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - '**/*.qmd'
+    - '!_site/**'
+    - '!.quarto/**'
+  preview:
+    port: 8000
+    browser: false
+website:
+  title: Keep It Simple
+  description: Software, data systems, and research by Raxit Solanki
+  site-url: https://raxit65535.github.io/keep-it-simple/
+  repo-url: https://github.com/raxit65535/keep-it-simple
+  repo-subdir: docs
+  search: true
+  open-graph: true
+  twitter-card: true
+  sidebar:
+    style: floating
+    title: ""
+    logo: assets/profile.jpg
+    logo-alt: Raxit Solanki's profile image
+    logo-href: /about/index.qmd
+    # File-based headers resolve relative to each page in Quarto 1.10.19.
+    header: |
+      ::: {.profile-summary}
+      ### Raxit Solanki {.profile-name}
+
+      Software & data systems<br>
+      Engineering, research, and practice
+
+      ::: {.profile-facts}
+      **Senior Software Engineer**<br>
+      Shipt
+
+      **Master's in Computer Science**<br>
+      CSU Fullerton · 2019
+      :::
+
+      ::: {.profile-links}
+      [GitHub](https://github.com/raxit65535)
+      [LinkedIn](https://www.linkedin.com/in/raxit65535/)
+      [Email](mailto:sraxit65535@gmail.com)
+      :::
+
+      ::: {.profile-focus}
+      **Areas of interest**
+
+      - Streaming & distributed systems
+      - Machine-learning infrastructure
+      - Reproducible research workflows
+      :::
+
+      ::: {.profile-motto}
+      Keep It Simple.<br>
+      Build, measure, explain.
+      :::
+      :::
+    contents: []
+  navbar:
+    title: Raxit Solanki
+    left:
+      - text: Research
+        menu:
+          - href: research/index.qmd
+            text: Research overview
+          - href: publications/index.qmd
+            text: Publications
+          - href: reading/index.qmd
+            text: Paper analyses
+      - href: contributions/index.qmd
+        text: Projects
+      - href: writing/index.qmd
+        text: Writing
+      - text: Service
+        menu:
+          - href: service/index.qmd
+            text: Reviewing & service
+          - href: talks/index.qmd
+            text: Talks & demonstrations
+      - text: Recognition
+        menu:
+          - href: recognition/index.qmd
+            text: Overview
+          - href: awards/index.qmd
+            text: Awards & honors
+          - href: memberships/index.qmd
+            text: Professional memberships
+          - href: media/index.qmd
+            text: Media & coverage
+      - href: about/index.qmd
+        text: About / CV
+    right:
+      - icon: github
+        href: https://github.com/raxit65535
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raxit65535/
+        aria-label: LinkedIn
+  page-footer:
+    left: 'Keep It Simple · Raxit Solanki'
+    right:
+      - text: Source
+        href: https://github.com/raxit65535/keep-it-simple
+format:
+  html:
+    # First theme is the default; an explicit reader choice is remembered.
+    theme:
+      dark: darkly
+      light: flatly
+    respect-user-color-scheme: false
+    css: stylesheets/extra.css
+    toc: true
+    mainfont: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif
+    fontsize: 16px
+    grid:
+      sidebar-width: 245px
+      body-width: 860px
+      margin-width: 170px
+      gutter-width: 1.5rem
+    code-copy: true
+    lightbox: true
+    include-after-body: _includes/share.html
+execute:
+  enabled: false

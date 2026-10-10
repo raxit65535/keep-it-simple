@@ -1,0 +1,8 @@
+---
+title: Page not found
+toc: false
+---
+
+The page may have moved while this site was reorganized.
+
+Visit the [home page](/index.qmd), [Writing](/writing/index.qmd), or use site search.

@@ -1,0 +1,78 @@
+---
+title: From research question to reviewable artifact
+description: An autonomous research-writing framework with explicit source records and a reviewed publication boundary.
+kind: project
+evidence-status: self-described
+---
+
+::: {.artifact-links}
+[Project repository ↗](https://github.com/raxit65535/keep-it-simple)
+[Research overview](../../research/index.qmd)
+:::
+
+## Purpose
+
+The research-writing framework in this repository makes recurring literature
+work executable: retrieve candidate papers, apply metadata-based screening,
+produce a synthesis, assemble a source-linked draft, and optionally open a
+review PR.
+
+Quarto is the publication layer, not the agent orchestrator. The workflow remains
+in LangGraph and runs independently of website rendering.
+
+## Architecture
+
+```{mermaid}
+flowchart LR
+    Search[Search] --> Screen[Screen]
+    Screen --> Synthesize[Synthesize]
+    Synthesize --> Store[Bundle]
+    Store --> Publish[Review PR]
+```
+
+| Stage | Responsibility |
+| --- | --- |
+| Search | Retrieve candidate metadata from arXiv and Semantic Scholar |
+| Screen | Deduplicate and rank using venue, citation, and recency heuristics |
+| Synthesize | Use the configured model, or deterministic no-LLM drafting |
+| Bundle | Write a Quarto article, bibliography, source records, and social-copy sidecar |
+| Publish | On explicit request, prepare a research-branch site change and open a PR |
+
+## Autonomy and publication are separate
+
+The configured workflow progresses through its stages without new approval
+prompts between them. By default, it writes a local draft and performs no Git
+publication. A requested non-dry run can open a PR containing the intended site
+page, but it does not merge or deploy.
+
+That boundary lets the research workflow remain autonomous without treating
+unreviewed output as approved public content.
+
+## Traceable artifacts
+
+The source record travels alongside the draft. The publishing path checks an
+explicit file set, protects existing destinations, and refuses unrelated Git
+changes. The website build validates local links, bibliography resolution,
+publication paths, and output boundaries without making model calls.
+
+Tests exercise document serialization, filesystem boundaries, rendered
+citations, temporary-repository publication, and the configured graph with
+controlled retrieval inputs.
+
+## Current limits
+
+The present writer works from truncated abstracts and metadata. Its screening
+scores are discovery heuristics, not scientific-quality assessments. A draft is
+therefore labeled unverified. The framework does not currently implement or
+validate original experiments, establish novelty, or certify its conclusions.
+
+Future improvements can add full-text extraction, stronger source checking,
+and new research stages while preserving explicit state and provenance.
+
+## Using the framework
+
+The repository includes an authoring handbook and setup instructions. Runtime
+provider configuration supports Ollama and OpenAI. The optional agent dependency
+group stays separate from the ordinary website build.
+
+[Repository and authoring documentation ↗](https://github.com/raxit65535/keep-it-simple)

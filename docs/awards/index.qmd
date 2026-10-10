@@ -1,0 +1,23 @@
+---
+title: Awards & honors
+description: Documented awards and honors with their granting organizations and source records.
+record-status: awaiting-entries
+draft: false
+toc: false
+---
+
+Awards and honors will be listed with the granting organization, recognition
+name, date, and original announcement or other authorized supporting material.
+Individual and team recognition will be distinguished, including my role.
+
+::: {.collection-empty}
+## Award entries forthcoming
+
+No award or honor records have been added to this section yet.
+:::
+
+CSUF's citation-impact ranking is recorded under
+[institutional recognition](../recognition/index.qmd#institutional-recognition),
+not as an individual award.
+
+[Recognition overview](../recognition/index.qmd) · [Selected projects](../contributions/index.qmd)

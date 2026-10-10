@@ -1,0 +1,23 @@
+---
+title: Writing
+description: Technical explanations, practical lessons, and research write-ups.
+listing:
+  contents:
+    - ../posts/**/index.qmd
+    - empty.yml
+  sort: date desc
+  categories: true
+---
+
+Technical explanations, implementation notes, and research write-ups will appear
+here as they are published.
+
+::: {.collection-empty}
+## Articles forthcoming
+
+No public articles are listed yet. Project descriptions and supporting materials
+are available in the collections below.
+:::
+
+[Projects & contributions](../contributions/index.qmd) ·
+[Research](../research/index.qmd) · [Talks and demonstrations](../talks/index.qmd)

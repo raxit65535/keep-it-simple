@@ -1,0 +1,78 @@
+---
+title: Research & technical work
+description: Questions, methods, and the evidence behind engineering and research artifacts.
+toc: false
+---
+
+My published work spans streaming data pipelines, distributed analytics,
+crop-yield prediction, educational software, and IoT security. These experiences
+inform my current interests in streaming systems, machine-learning infrastructure,
+and reproducible research tools.
+
+This page distinguishes **published work**, **current interests**, and
+**engineering projects**, with links to the underlying artifacts.
+
+## Working themes
+
+::: {.record-grid}
+::: {.record-link}
+### Streaming computation
+Constructing inputs, joining streams, narrowing candidate sets, and reasoning
+about changing data. [UMatch](../contributions/umatch/index.qmd) is an engineering
+starting point.
+:::
+::: {.record-link}
+### ML & data infrastructure
+Connecting data pipelines, real-time services, cloud systems, and operational
+reliability. See my [engineering background](../about/index.qmd).
+:::
+::: {.record-link}
+### Reproducible workflows
+Connecting source discovery, implementation, and reviewable artifacts in the
+[research-writing framework](../contributions/research-workflows/index.qmd).
+:::
+:::
+
+## Published research
+
+- **Streaming pipelines and distributed analytics:**
+  [Git-Archive Data Pipeline](../publications/git-archive-data-pipeline/index.qmd)
+  (thesis, 2019) and the
+  [Hadoop / Apache Mahout paper](../publications/hadoop-apache-mahout/index.qmd)
+  (IEEE CCWC, 2019).
+- **Applied machine learning:**
+  [Prediction of Crop Cultivation](../publications/prediction-of-crop-cultivation/index.qmd)
+  (IEEE CCWC, 2019), comparing regression approaches for an agricultural prediction task.
+- **Educational systems:**
+  [Online Examination Empowerment](../publications/online-examination-empowerment/index.qmd)
+  (IRJET, 2016), documenting a Java-based examination-preparation framework.
+- **Connected-device security:**
+  [Accustoms of IOT and Security Concerns](../publications/iot-security-concerns/index.qmd)
+  (IRJET, 2016), a survey of existing security concerns and reports.
+
+[Complete author lists, publication details, and citations](../publications/index.qmd)
+
+## Current studies & experiments
+
+::: {.collection-empty}
+### New experiment records forthcoming
+
+Future protocols, replications, and evaluations will be documented here with
+their supporting artifacts. These working records will distinguish exploratory
+ideas from completed evaluations and are separate from the publications above.
+:::
+
+## Related collections
+
+::: {.intro-links}
+[Publications](../publications/index.qmd)
+[Paper analyses](../reading/index.qmd)
+[Projects & contributions](../contributions/index.qmd)
+[Reviewing & service](../service/index.qmd)
+:::
+
+## From question to artifact
+
+A complete record connects the question and prior work to a method, implementation,
+evaluation, bounded conclusion, and reproducible artifact. It records limitations,
+negative results, and changes to the original plan—not only successful outcomes.

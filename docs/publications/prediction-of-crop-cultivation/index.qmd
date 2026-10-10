@@ -1,0 +1,48 @@
+---
+title: Prediction of Crop Cultivation
+description: A coauthored CCWC 2019 conference paper comparing regression approaches for crop-yield prediction.
+kind: publication
+publication-status: published
+evidence-status: bibliographic-record-checked
+draft: false
+bibliography: references.bib
+nocite: "@rale2019crop"
+---
+
+[Conference paper · IEEE CCWC · January 2019]{.record-type}
+
+- **Authors:** Neha Rale, Raxitkumar Solanki, Doina Bein, James Andro-Vasko, and Wolfgang Bein
+- **Venue:** 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC)
+- **Published:** January 2019, pages 0227–0232
+- **DOI:** [10.1109/CCWC.2019.8666445](https://doi.org/10.1109/CCWC.2019.8666445)
+
+::: {.artifact-links}
+[Paper / DOI](https://doi.org/10.1109/CCWC.2019.8666445)
+[Publication metadata](https://api.crossref.org/works/10.1109/CCWC.2019.8666445)
+[BibTeX](references.bib)
+:::
+
+## Research focus
+
+This coauthored paper examines machine-learning approaches to predicting crop
+yield. It compares linear and nonlinear regressors with five-fold
+cross-validation, including random forests, nearest-neighbor regression,
+polynomial-feature linear regression, and support-vector regression.
+
+The work connects agricultural prediction to empirical model comparison. I am
+listed as the second author; the complete author order is retained above and in
+the citation.
+
+## Source and scope
+
+Bibliographic details follow IEEE's metadata deposited with Crossref. The summary
+follows the abstract on my [LinkedIn profile](https://www.linkedin.com/in/raxit65535/),
+not a new full-paper review or reproduction of the experiments. No separate
+code or dataset release is asserted by this record.
+
+## Citation
+
+::: {#refs}
+:::
+
+[All published artifacts](../index.qmd) · [Research overview](../../research/index.qmd)

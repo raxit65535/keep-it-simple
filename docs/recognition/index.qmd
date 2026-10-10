@@ -1,0 +1,53 @@
+---
+title: Recognition
+description: Institutional research context and source-linked collections for personal awards, memberships, and coverage.
+record-status: populated
+draft: false
+toc: false
+---
+
+Documented recognition and academic context, separated by the person or
+institution recognized. University rankings are not listed as personal awards.
+
+## Institutional recognition {#institutional-recognition}
+
+### CSU Fullerton: normalized citation impact
+
+[Institutional ranking · CSUF News · January 28, 2022]{.record-type}
+
+CSUF News reported that California State University, Fullerton ranked **third
+among U.S. public universities** for normalized citation impact in the U.S. News
+& World Report rankings. The article also reports second place among all
+California universities and discusses research publications from **2015–2019**.
+This is a citation-impact measure, not an overall university ranking.
+
+My connection is my [master's degree in Computer Science at CSUF](../about/index.qmd#education).
+The report provides context for that academic affiliation; it does **not** name
+me as an award recipient or establish the citation impact of my own publications.
+
+**Source:** Valerie Orleans, [“Cal State Fullerton Ranks Third Among U.S. Public
+Universities for Faculty Research Impact,” CSUF News](https://news.fullerton.edu/2022/01/cal-state-fullerton-ranks-third-among-u-s-public-universities-for-citation-impact/),
+January 28, 2022.
+
+## Personal recognition and affiliations
+
+::: {.record-grid}
+::: {.record-link}
+### [Awards & honors](../awards/index.qmd)
+Granting organization, award, date, and recognition context.
+:::
+::: {.record-link}
+### [Professional memberships](../memberships/index.qmd)
+Organization, membership grade, selection basis, and dates.
+:::
+::: {.record-link}
+### [Media & coverage](../media/index.qmd)
+Original coverage, byline, publication date, and the work discussed.
+:::
+:::
+
+Personal award, membership, and coverage records remain in their respective
+collections. Their empty states do not assert recognition; the institutional
+report above does not populate the personal-awards collection.
+
+[Professional service](../service/index.qmd) · [Background and experience](../about/index.qmd)

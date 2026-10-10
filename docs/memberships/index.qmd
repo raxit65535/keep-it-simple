@@ -1,0 +1,20 @@
+---
+title: Professional memberships
+description: Professional affiliations with explicit membership grades and dates.
+record-status: awaiting-entries
+draft: false
+toc: false
+---
+
+Professional affiliations will be recorded with the organization, membership
+grade or position, dates, and relevant selection information. Membership and
+active professional service are different records.
+
+::: {.collection-empty}
+## Membership entries forthcoming
+
+No professional membership records have been added here yet. No affiliation
+or selective recognition is implied by this empty section.
+:::
+
+[Recognition overview](../recognition/index.qmd) · [Reviewing and service](../service/index.qmd)

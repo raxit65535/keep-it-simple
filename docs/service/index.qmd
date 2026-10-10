@@ -1,0 +1,23 @@
+---
+title: Reviewing & professional service
+description: Completed reviewing, evaluation, committee, and community-service records.
+record-status: awaiting-entries
+draft: false
+toc: false
+---
+
+This section will document completed reviewing, evaluation, committee work,
+and other professional contributions where they can be shared publicly.
+
+::: {.collection-empty}
+## Service entries forthcoming
+
+No service records have been added here yet. An invitation, completed review,
+and committee appointment will be identified separately when documented.
+:::
+
+Each entry will name the organization or venue, role, dates, and an appropriate
+public confirmation. Confidential manuscripts, review text, and private
+correspondence will not be published.
+
+[Talks and demonstrations](../talks/index.qmd) · [Research](../research/index.qmd)
