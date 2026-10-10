@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "writing/index.html",
+    "href": "writing/index.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Technical explanations, implementation notes, and research write-ups will appear here as they are published.\nProjects & contributions · Research · Talks and demonstrations"
+  },
+  {
+    "objectID": "writing/index.html#articles-forthcoming",
+    "href": "writing/index.html#articles-forthcoming",
+    "title": "Writing",
+    "section": "Articles forthcoming",
+    "text": "Articles forthcoming\nNo public articles are listed yet. Project descriptions and supporting materials are available in the collections below."
+  },
+  {
+    "objectID": "service/index.html",
+    "href": "service/index.html",
+    "title": "Reviewing & professional service",
+    "section": "",
+    "text": "This section will document completed reviewing, evaluation, committee work, and other professional contributions where they can be shared publicly.\nEach entry will name the organization or venue, role, dates, and an appropriate public confirmation. Confidential manuscripts, review text, and private correspondence will not be published.\nTalks and demonstrations · Research"
+  },
+  {
+    "objectID": "service/index.html#service-entries-forthcoming",
+    "href": "service/index.html#service-entries-forthcoming",
+    "title": "Reviewing & professional service",
+    "section": "Service entries forthcoming",
+    "text": "Service entries forthcoming\nNo service records have been added here yet. An invitation, completed review, and committee appointment will be identified separately when documented."
+  },
+  {
+    "objectID": "recognition/index.html",
+    "href": "recognition/index.html",
+    "title": "Recognition",
+    "section": "",
+    "text": "Documented recognition and academic context, separated by the person or institution recognized. University rankings are not listed as personal awards."
+  },
+  {
+    "objectID": "recognition/index.html#institutional-recognition",
+    "href": "recognition/index.html#institutional-recognition",
+    "title": "Recognition",
+    "section": "Institutional recognition",
+    "text": "Institutional recognition\n\nCSU Fullerton: normalized citation impact\nInstitutional ranking · CSUF News · January 28, 2022\nCSUF News reported that California State University, Fullerton ranked third among U.S. public universities for normalized citation impact in the U.S. News & World Report rankings. The article also reports second place among all California universities and discusses research publications from 2015–2019. This is a citation-impact measure, not an overall university ranking.\nMy connection is my master’s degree in Computer Science at CSUF. The report provides context for that academic affiliation; it does not name me as an award recipient or establish the citation impact of my own publications.\nSource: Valerie Orleans, “Cal State Fullerton Ranks Third Among U.S. Public Universities for Faculty Research Impact,” CSUF News, January 28, 2022."
+  },
+  {
+    "objectID": "recognition/index.html#personal-recognition-and-affiliations",
+    "href": "recognition/index.html#personal-recognition-and-affiliations",
+    "title": "Recognition",
+    "section": "Personal recognition and affiliations",
+    "text": "Personal recognition and affiliations\n\n\nAwards & honors\nGranting organization, award, date, and recognition context.\n\n\nProfessional memberships\nOrganization, membership grade, selection basis, and dates.\n\n\nMedia & coverage\nOriginal coverage, byline, publication date, and the work discussed.\n\n\nPersonal award, membership, and coverage records remain in their respective collections. Their empty states do not assert recognition; the institutional report above does not populate the personal-awards collection.\nProfessional service · Background and experience"
+  },
+  {
+    "objectID": "publications/prediction-of-crop-cultivation/index.html",
+    "href": "publications/prediction-of-crop-cultivation/index.html",
+    "title": "Prediction of Crop Cultivation",
+    "section": "",
+    "text": "Conference paper · IEEE CCWC · January 2019"
+  },
+  {
+    "objectID": "publications/prediction-of-crop-cultivation/index.html#research-focus",
+    "href": "publications/prediction-of-crop-cultivation/index.html#research-focus",
+    "title": "Prediction of Crop Cultivation",
+    "section": "Research focus",
+    "text": "Research focus\nThis coauthored paper examines machine-learning approaches to predicting crop yield. It compares linear and nonlinear regressors with five-fold cross-validation, including random forests, nearest-neighbor regression, polynomial-feature linear regression, and support-vector regression.\nThe work connects agricultural prediction to empirical model comparison. I am listed as the second author; the complete author order is retained above and in the citation."
+  },
+  {
+    "objectID": "publications/prediction-of-crop-cultivation/index.html#source-and-scope",
+    "href": "publications/prediction-of-crop-cultivation/index.html#source-and-scope",
+    "title": "Prediction of Crop Cultivation",
+    "section": "Source and scope",
+    "text": "Source and scope\nBibliographic details follow IEEE’s metadata deposited with Crossref. The summary follows the abstract on my LinkedIn profile, not a new full-paper review or reproduction of the experiments. No separate code or dataset release is asserted by this record."
+  },
+  {
+    "objectID": "publications/prediction-of-crop-cultivation/index.html#citation",
+    "href": "publications/prediction-of-crop-cultivation/index.html#citation",
+    "title": "Prediction of Crop Cultivation",
+    "section": "Citation",
+    "text": "Citation\n\n\nRale, Neha, Raxitkumar Solanki, Doina Bein, James Andro-Vasko, and Wolfgang Bein. 2019. “Prediction of Crop Cultivation.” 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), January, 0227–32. https://doi.org/10.1109/CCWC.2019.8666445.\n\n\nAll published artifacts · Research overview"
+  },
+  {
+    "objectID": "publications/iot-security-concerns/index.html",
+    "href": "publications/iot-security-concerns/index.html",
+    "title": "Accustoms of IOT and Security Concerns",
+    "section": "",
+    "text": "Survey article · IRJET · July 2016"
+  },
+  {
+    "objectID": "publications/iot-security-concerns/index.html#research-focus",
+    "href": "publications/iot-security-concerns/index.html#research-focus",
+    "title": "Accustoms of IOT and Security Concerns",
+    "section": "Research focus",
+    "text": "Research focus\nThis survey examines IoT applications and their security implications, including privacy, unauthorized access, encryption, software updates, and constraints on connected devices. It brings together prior reports and examples to describe security challenges across consumer and enterprise settings."
+  },
+  {
+    "objectID": "publications/iot-security-concerns/index.html#contribution-and-historical-context",
+    "href": "publications/iot-security-concerns/index.html#contribution-and-historical-context",
+    "title": "Accustoms of IOT and Security Concerns",
+    "section": "Contribution and historical context",
+    "text": "Contribution and historical context\nI am the sole listed author. The contribution is a survey and synthesis of existing material, not a claim to have discovered the vulnerabilities it discusses. Its forecasts and technology examples belong to the 2016 context and should not be read as current measurements or present-day security guidance.\nThe title, author, issue date, and page range follow the publisher’s PDF and archive."
+  },
+  {
+    "objectID": "publications/iot-security-concerns/index.html#citation",
+    "href": "publications/iot-security-concerns/index.html#citation",
+    "title": "Accustoms of IOT and Security Concerns",
+    "section": "Citation",
+    "text": "Citation\n\n\nSolanki, Raxit. 2016. “Accustoms of IOT and Security Concerns.” International Research Journal of Engineering and Technology 3 (7): 1332–36. https://www.irjet.net/archives/V3/i7/IRJET-V3I7247.pdf.\n\n\nAll published artifacts · Research background"
+  },
+  {
+    "objectID": "publications/hadoop-apache-mahout/index.html",
+    "href": "publications/hadoop-apache-mahout/index.html",
+    "title": "Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout",
+    "section": "",
+    "text": "Conference paper · IEEE CCWC · January 2019"
+  },
+  {
+    "objectID": "publications/hadoop-apache-mahout/index.html#research-focus",
+    "href": "publications/hadoop-apache-mahout/index.html#research-focus",
+    "title": "Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout",
+    "section": "Research focus",
+    "text": "Research focus\nThis paper explores Hadoop-based distributed data processing and introduces machine-learning analysis with Apache Mahout. Its example investigates book publication patterns across authors’ age groups and calendar years, connecting scalable storage and processing to an applied analysis task.\nI am the first-listed author, alongside Sree Harsha Ravilla and Doina Bein. The work is part of my background in distributed systems and data analysis."
+  },
+  {
+    "objectID": "publications/hadoop-apache-mahout/index.html#source-and-scope",
+    "href": "publications/hadoop-apache-mahout/index.html#source-and-scope",
+    "title": "Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout",
+    "section": "Source and scope",
+    "text": "Source and scope\nBibliographic details follow IEEE’s metadata deposited with Crossref. The summary follows the abstract on my LinkedIn profile. This page is a publication record, not an independent validation of the study’s predictions or a claim of a separately released reproduction package."
+  },
+  {
+    "objectID": "publications/hadoop-apache-mahout/index.html#citation",
+    "href": "publications/hadoop-apache-mahout/index.html#citation",
+    "title": "Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout",
+    "section": "Citation",
+    "text": "Citation\n\n\nSolanki, Raxitkumar, Sree Harsha Ravilla, and Doina Bein. 2019. “Study of Distributed Framework Hadoop and Overview of Machine Learning Using Apache Mahout.” 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), January, 0252–57. https://doi.org/10.1109/CCWC.2019.8666529.\n\n\nAll published artifacts · Research overview"
+  },
+  {
+    "objectID": "memberships/index.html",
+    "href": "memberships/index.html",
+    "title": "Professional memberships",
+    "section": "",
+    "text": "Professional affiliations will be recorded with the organization, membership grade or position, dates, and relevant selection information. Membership and active professional service are different records.\nRecognition overview · Reviewing and service"
+  },
+  {
+    "objectID": "memberships/index.html#membership-entries-forthcoming",
+    "href": "memberships/index.html#membership-entries-forthcoming",
+    "title": "Professional memberships",
+    "section": "Membership entries forthcoming",
+    "text": "Membership entries forthcoming\nNo professional membership records have been added here yet. No affiliation or selective recognition is implied by this empty section."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, I’m Raxit.",
+    "section": "",
+    "text": "Raxit Solanki\nMy background spans streaming pipelines, cloud infrastructure, and data engineering with Go, Python, Kafka, AWS, and Google Cloud. My published work connects these interests to distributed analytics, crop-yield prediction, educational software, and IoT security."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Hello, I’m Raxit.",
+    "section": "Research interests",
+    "text": "Research interests\n\n\nStreaming systems\nHow data moves, joins, and changes when the input never stops.\n\n\nML & data infrastructure\nConnecting production data, model-serving systems, and reliable operations.\n\n\nResearch tooling\nMaking questions, sources, code, and published artifacts easier to trace."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Hello, I’m Raxit.",
+    "section": "Selected work",
+    "text": "Selected work\n\n\n\n\n\nA diagram of rider-to-driver candidate matching\n\n\n\n\nEngineering project · Kafka · Spark · Python\n\nUMatch: matching over streaming data\nConstructing rider and driver streams from taxi-trip data, grouping nearby candidates with geohashes, and applying greedy distance-based matching within a streaming window.\n\nCase study Code ↗ Demo ↗\n\n\n\n\n\n\n\n\n\nSources flowing into a reviewable research artifact\n\n\n\n\nResearch infrastructure · LangGraph · Quarto\n\nFrom research question to reviewable artifact\nAn autonomous workflow connecting literature discovery, configurable models, source metadata, Quarto drafts, and a human-reviewed publication boundary.\n\nArchitecture Research workflow Repository ↗"
+  },
+  {
+    "objectID": "index.html#published-artifacts",
+    "href": "index.html#published-artifacts",
+    "title": "Hello, I’m Raxit.",
+    "section": "Published artifacts",
+    "text": "Published artifacts\n\n2019 · Thesis: Git-Archive Data Pipeline — streaming graph processing with Kafka and Flink.\n2019 · IEEE CCWC: Prediction of Crop Cultivation — coauthored work on regression for crop-yield prediction.\n2019 · IEEE CCWC: Hadoop and Apache Mahout — first-authored work on distributed data analysis.\n2016 · IRJET: Online Examination Empowerment — an examination-preparation framework developed at Ganpat University.\n2016 · IRJET: Accustoms of IOT and Security Concerns — a survey of connected-device security.\n\nFull publication records, author lists, and citations"
+  },
+  {
+    "objectID": "index.html#professional-record",
+    "href": "index.html#professional-record",
+    "title": "Hello, I’m Raxit.",
+    "section": "Professional record",
+    "text": "Professional record\nThese sections stay visible as the record develops. An empty collection means entries have not been added here—not that an achievement or recognition is claimed.\n\n\nPublications\nThesis, conference papers, journal articles, and citations.\n\n\nReviewing & service\nCompleted reviewing and professional contributions.\n\n\nAwards & honors\nRecognitions with their granting organizations and dates.\n\n\nMemberships\nProfessional affiliations and membership grades.\n\n\nMedia & coverage\nExternal coverage of the work, with original sources.\n\n\nExperience\nEngineering roles, responsibilities, and background.\n\n\nRecognition overview · Talks and demonstrations"
+  },
+  {
+    "objectID": "index.html#experience-briefly",
+    "href": "index.html#experience-briefly",
+    "title": "Hello, I’m Raxit.",
+    "section": "Experience, briefly",
+    "text": "Experience, briefly\n\n\n\n\n\n\n\nPeriod\nWork\n\n\n\n\n2020–Present\nShipt — Senior Software Engineer, ML/data systems\n\n\n2020\nMinted — data engineering and streaming analytics\n\n\n2019\nGlobe Life / Insight Data Science — cloud pipelines and data engineering\n\n\n\nFull background and education"
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html",
+    "href": "contributions/research-workflows/index.html",
+    "title": "From research question to reviewable artifact",
+    "section": "",
+    "text": "Project repository ↗ Research overview"
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#purpose",
+    "href": "contributions/research-workflows/index.html#purpose",
+    "title": "From research question to reviewable artifact",
+    "section": "Purpose",
+    "text": "Purpose\nThe research-writing framework in this repository makes recurring literature work executable: retrieve candidate papers, apply metadata-based screening, produce a synthesis, assemble a source-linked draft, and optionally open a review PR.\nQuarto is the publication layer, not the agent orchestrator. The workflow remains in LangGraph and runs independently of website rendering."
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#architecture",
+    "href": "contributions/research-workflows/index.html#architecture",
+    "title": "From research question to reviewable artifact",
+    "section": "Architecture",
+    "text": "Architecture\n\n\n\n\n\nflowchart LR\n    Search[Search] --&gt; Screen[Screen]\n    Screen --&gt; Synthesize[Synthesize]\n    Synthesize --&gt; Store[Bundle]\n    Store --&gt; Publish[Review PR]\n\n\n\n\n\n\n\n\n\n\n\n\n\nStage\nResponsibility\n\n\n\n\nSearch\nRetrieve candidate metadata from arXiv and Semantic Scholar\n\n\nScreen\nDeduplicate and rank using venue, citation, and recency heuristics\n\n\nSynthesize\nUse the configured model, or deterministic no-LLM drafting\n\n\nBundle\nWrite a Quarto article, bibliography, source records, and social-copy sidecar\n\n\nPublish\nOn explicit request, prepare a research-branch site change and open a PR"
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#autonomy-and-publication-are-separate",
+    "href": "contributions/research-workflows/index.html#autonomy-and-publication-are-separate",
+    "title": "From research question to reviewable artifact",
+    "section": "Autonomy and publication are separate",
+    "text": "Autonomy and publication are separate\nThe configured workflow progresses through its stages without new approval prompts between them. By default, it writes a local draft and performs no Git publication. A requested non-dry run can open a PR containing the intended site page, but it does not merge or deploy.\nThat boundary lets the research workflow remain autonomous without treating unreviewed output as approved public content."
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#traceable-artifacts",
+    "href": "contributions/research-workflows/index.html#traceable-artifacts",
+    "title": "From research question to reviewable artifact",
+    "section": "Traceable artifacts",
+    "text": "Traceable artifacts\nThe source record travels alongside the draft. The publishing path checks an explicit file set, protects existing destinations, and refuses unrelated Git changes. The website build validates local links, bibliography resolution, publication paths, and output boundaries without making model calls.\nTests exercise document serialization, filesystem boundaries, rendered citations, temporary-repository publication, and the configured graph with controlled retrieval inputs."
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#current-limits",
+    "href": "contributions/research-workflows/index.html#current-limits",
+    "title": "From research question to reviewable artifact",
+    "section": "Current limits",
+    "text": "Current limits\nThe present writer works from truncated abstracts and metadata. Its screening scores are discovery heuristics, not scientific-quality assessments. A draft is therefore labeled unverified. The framework does not currently implement or validate original experiments, establish novelty, or certify its conclusions.\nFuture improvements can add full-text extraction, stronger source checking, and new research stages while preserving explicit state and provenance."
+  },
+  {
+    "objectID": "contributions/research-workflows/index.html#using-the-framework",
+    "href": "contributions/research-workflows/index.html#using-the-framework",
+    "title": "From research question to reviewable artifact",
+    "section": "Using the framework",
+    "text": "Using the framework\nThe repository includes an authoring handbook and setup instructions. Runtime provider configuration supports Ollama and OpenAI. The optional agent dependency group stays separate from the ordinary website build.\nRepository and authoring documentation ↗"
+  },
+  {
+    "objectID": "contributions/git-archive/index.html",
+    "href": "contributions/git-archive/index.html",
+    "title": "Network Pulse / Git Archive",
+    "section": "",
+    "text": "Repository origin: the repository in my account is a fork of drfloob/literate-garbanzo, the upstream Network Pulse project. Upstream design and benchmark claims are not presented here as my original work."
+  },
+  {
+    "objectID": "contributions/git-archive/index.html#repository-and-context",
+    "href": "contributions/git-archive/index.html#repository-and-context",
+    "title": "Network Pulse / Git Archive",
+    "section": "Repository and context",
+    "text": "Repository and context\nRepository in my account\nNetwork Pulse explores clustering interactions in GitHub event streams with a distributed data pipeline. The upstream README describes the stream simulation, filtering, graph-processing, persistence, and visualization components.\n\n\n\nArchitecture illustration retained from the earlier portfolio record"
+  },
+  {
+    "objectID": "contributions/git-archive/index.html#related-authored-publication",
+    "href": "contributions/git-archive/index.html#related-authored-publication",
+    "title": "Network Pulse / Git Archive",
+    "section": "Related authored publication",
+    "text": "Related authored publication\nMy 2019 CSUF thesis, Git-Archive Data Pipeline, is archived by ProQuest under publication number 13864765. It addresses scalable pipelines and streaming graph processing with Kafka and Flink.\nThe thesis has its own bibliographic record. Authorship of that thesis does not replace the upstream attribution or establish which changes I made to this fork."
+  },
+  {
+    "objectID": "contributions/git-archive/index.html#repository-contribution-record",
+    "href": "contributions/git-archive/index.html#repository-contribution-record",
+    "title": "Network Pulse / Git Archive",
+    "section": "Repository contribution record",
+    "text": "Repository contribution record\n\nAttribution details forthcoming\nMy specific changes, experiments, or collaborative role have not been documented on this page yet. Those details should be accompanied by commits or other appropriate records before this is presented as a personal contribution.\n\nUpstream project ↗ · All projects"
+  },
+  {
+    "objectID": "awards/index.html",
+    "href": "awards/index.html",
+    "title": "Awards & honors",
+    "section": "",
+    "text": "Awards and honors will be listed with the granting organization, recognition name, date, and original announcement or other authorized supporting material. Individual and team recognition will be distinguished, including my role.\nCSUF’s citation-impact ranking is recorded under institutional recognition, not as an individual award.\nRecognition overview · Selected projects"
+  },
+  {
+    "objectID": "awards/index.html#award-entries-forthcoming",
+    "href": "awards/index.html#award-entries-forthcoming",
+    "title": "Awards & honors",
+    "section": "Award entries forthcoming",
+    "text": "Award entries forthcoming\nNo award or honor records have been added to this section yet."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About / CV",
+    "section": "",
+    "text": "Hi, I’m Raxitkumar Solanki, also known professionally as Raxit Solanki. I work on data engineering, streaming systems, and machine-learning infrastructure, using Go (Golang), Python, Apache Kafka, AWS, and Google Cloud. My LinkedIn profile connects this engineering background with earlier research and published technical work.\nExplore my engineering projects, published artifacts, and presentations."
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About / CV",
+    "section": "Education",
+    "text": "Education\n\nMasters in Computer Science, California State University Fullerton, 2019\nBachelors in Information Technology, Ganpat University, 2014\n\nCSUF institutional research context is recorded separately from personal awards."
+  },
+  {
+    "objectID": "about/index.html#research-and-publications",
+    "href": "about/index.html#research-and-publications",
+    "title": "About / CV",
+    "section": "Research and publications",
+    "text": "Research and publications\nMy research background connects distributed computing and applied machine learning with earlier work on educational software and connected-device security:\n\nStreaming data pipelines: my 2019 CSUF thesis, Git-Archive Data Pipeline, explores scalable pipelines and streaming graph processing with Kafka and Flink.\nApplied machine learning: I coauthored Prediction of Crop Cultivation for IEEE CCWC 2019, comparing regression approaches for crop-yield prediction.\nDistributed analytics: I am the first-listed author of the CCWC 2019 paper on Hadoop and Apache Mahout.\nEducational software: my 2016 article Online Examination Empowerment describes a Java-based examination-preparation framework developed at Ganpat University.\nIoT security: my 2016 survey article examines connected-device applications and security concerns.\n\nThe Publications collection preserves complete author lists, venues, source links, and citations. These published records are distinct from my current research interests and exploratory workflows."
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About / CV",
+    "section": "Experience",
+    "text": "Experience\n\nSr. Software Engineer at Shipt Inc\nSan Francisco · May 2020–Present\n\nIncreased retail profitability by 7% through the design and implementation of MLOps pipelines, integrating real-time ML models into pricing systems.\nBuilt real-time microservices and ETL pipelines using Golang, Python, Apache Spark, and Kafka, reducing processing latency by 40%.\nArchitected and deployed scalable cloud infrastructure on AWS and GCP with disaster recovery capabilities.\nDeveloped automation scripts in Golang and Python, improving operational efficiency and minimizing manual intervention.\n\n\n\nData Engineer at Minted LLC\nSan Francisco · February 2020–May 2020\n\nCreated Apache Spark streaming pipelines to capture web page load metrics, improving user experience analysis.\nDesigned Snowflake materialized views for user journey analysis, empowering data science teams.\n\n\n\nData Engineer at Globe Life Insurance\nLos Angeles · September 2019–January 2020\n\nBuilt batch and real-time data pipelines using AWS Glue, AWS Batch, and Apache Spark.\nReduced ETL deployment time by 30% with CI/CD workflows using AWS CloudFormation and CodePipeline.\nAutomated daily reporting with AWS Athena, improving stakeholder decision-making.\n\n\n\nData Engineer Intern at Insight Data Science\nSan Francisco · June 2019–August 2019\n\nDeployed a multi-node Spark and Kafka cluster on AWS EC2 to simulate 1TB of taxi ride data, optimizing ride-matching algorithms.\nBuilt a real-time monitoring dashboard with Spring Boot and ChartJS for visualizing key metrics.\n\n\n\nDeveloper Assistant at Pollak Library, CSUF\nFullerton · August 2017–April 2019\n\nDeveloped Python-based web crawlers using BeautifulSoup and Selenium to gather faculty publications.\nMaintained and tested Python and Golang code libraries, ensuring compliance with accessibility standards.\n\n\n\nSoftware Engineer Intern at Ujobi Inc\nFullerton · January 2017–June 2017\n\nEnhanced platform functionality through feature development and bug fixes.\nTech stack: Python, HTML/CSS, JavaScript, MongoDB, AWS EC2.\n\n\n\nData Engineer at eClinicalWorks India Pvt Ltd\nGujarat · July 2014–February 2015\n\nDeveloped Java MapReduce-based ETL pipelines for health insurance claims, optimizing data storage.\nUsed Hive queries and Python scripts for data visualization on dashboards.\n\n\n\nResearch Assistant at Ganpat University\nGujarat · January 2014–May 2014\n\nWorked on online-examination software at the Utkarsh research center, U.V. Patel College of Engineering. The Gate Empowerment project is listed on my LinkedIn profile for January–May 2014.\nThe later Online Examination Empowerment publication documents the framework’s design and local testing; the journal issue is dated July 2016."
+  },
+  {
+    "objectID": "about/index.html#skills",
+    "href": "about/index.html#skills",
+    "title": "About / CV",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\nArea\nTechnologies and practices\n\n\n\n\nProgramming\nGolang, Python, Java, C++\n\n\nCloud\nAWS, Google Cloud\n\n\nData engineering\nSpark, Kafka, Flink, Airflow, Snowflake, BigQuery, AWS Glue, Athena, Hadoop, Hive\n\n\nAutomation and DevOps\nDocker, Kubernetes, Terraform, shell scripting, Jenkins, Drone/Concourse CI/CD\n\n\nDatabases\nPostgreSQL, MySQL, Redis, BigTable, DuckDB, MongoDB, Cassandra\n\n\nArchitecture\nMicroservices, REST, gRPC, service-oriented architecture, ETL/ELT, data lakehouses\n\n\nDevelopment\nGit, Agile/Scrum, Jira, ClickUp"
+  },
+  {
+    "objectID": "about/index.html#contact-and-profiles",
+    "href": "about/index.html#contact-and-profiles",
+    "title": "About / CV",
+    "section": "Contact and profiles",
+    "text": "Contact and profiles\n\nEmail\nLinkedIn\nGitHub\nYouTube"
+  },
+  {
+    "objectID": "contributions/batch-recommendations/index.html",
+    "href": "contributions/batch-recommendations/index.html",
+    "title": "Recommendations and MapReduce pipelines",
+    "section": "",
+    "text": "Repository origin: this repository is a fork of Shashwat21/Big-Data-FInals. The existence of the fork does not establish authorship of all its contents."
+  },
+  {
+    "objectID": "contributions/batch-recommendations/index.html#repository-and-material",
+    "href": "contributions/batch-recommendations/index.html#repository-and-material",
+    "title": "Recommendations and MapReduce pipelines",
+    "section": "Repository and material",
+    "text": "Repository and material\nRepository in my account\nThe repository describes data analysis using Hadoop, Mahout, Hive, MapReduce, R, and Python. The earlier portfolio also contains the following recommendation and MapReduce illustrations.\n\n\n\nRecommendation pipeline illustration\n\n\n\n\n\nMapReduce pipeline illustration"
+  },
+  {
+    "objectID": "contributions/batch-recommendations/index.html#personal-contribution-record",
+    "href": "contributions/batch-recommendations/index.html#personal-contribution-record",
+    "title": "Recommendations and MapReduce pipelines",
+    "section": "Personal contribution record",
+    "text": "Personal contribution record\n\nAttribution details forthcoming\nMy particular implementation, analysis, or collaborative role can be documented here with supporting source records. No upstream results are claimed as my own by this placeholder.\n\nUpstream project ↗ · All projects"
+  },
+  {
+    "objectID": "contributions/index.html",
+    "href": "contributions/index.html",
+    "title": "Projects & contributions",
+    "section": "",
+    "text": "The useful part of a project is often the reasoning behind it: what the problem was, why a particular approach was chosen, and what a reader can inspect or reproduce."
+  },
+  {
+    "objectID": "contributions/index.html#selected-engineering-work",
+    "href": "contributions/index.html#selected-engineering-work",
+    "title": "Projects & contributions",
+    "section": "Selected engineering work",
+    "text": "Selected engineering work\n\n\n\n\n\nRider and driver matching diagram\n\n\n\n\nEngineering project · streaming systems\n\nUMatch\nConstructing rider and driver streams, grouping candidates geographically, and applying greedy matching in a streaming window.\n\nCase study Code ↗ Demo ↗\n\n\n\n\n\n\n\n\n\nSources flowing into a research artifact\n\n\n\n\nResearch infrastructure · autonomous workflows\n\nResearch-writing framework\nA LangGraph workflow connecting discovery, synthesis, source metadata, Quarto artifacts, and a reviewed release process.\n\nArchitecture Repository ↗"
+  },
+  {
+    "objectID": "contributions/index.html#additional-repositories",
+    "href": "contributions/index.html#additional-repositories",
+    "title": "Projects & contributions",
+    "section": "Additional repositories",
+    "text": "Additional repositories\nThese repositories are forks. Their pages retain upstream credit and leave room to document my specific changes or experiments rather than attributing all upstream work to me.\n\nNetwork Pulse / Git Archive\nRecommendations and MapReduce"
+  },
+  {
+    "objectID": "contributions/index.html#original-studies-new-artifacts",
+    "href": "contributions/index.html#original-studies-new-artifacts",
+    "title": "Projects & contributions",
+    "section": "Original studies & new artifacts",
+    "text": "Original studies & new artifacts\n\nAdditional contribution records forthcoming\nFuture entries will describe the specific contribution, my role, evaluation, reproduction instructions, and any documented external use. No additional original contributions are asserted by this placeholder.\n\nResearch · Publications"
+  },
+  {
+    "objectID": "contributions/umatch/index.html",
+    "href": "contributions/umatch/index.html",
+    "title": "UMatch: matching over streaming data",
+    "section": "",
+    "text": "Source code ↗ Recorded demo ↗ Slides ↗"
+  },
+  {
+    "objectID": "contributions/umatch/index.html#the-problem",
+    "href": "contributions/umatch/index.html#the-problem",
+    "title": "UMatch: matching over streaming data",
+    "section": "The problem",
+    "text": "The problem\nUMatch explores matching ride requests to nearby drivers within a streaming window. The engineering challenge begins before the matching step: historical taxi-trip records describe completed trips, rather than continuously available drivers and waiting riders.\nThe repository’s documented design constructs separate rider and driver-location streams, then joins plausible candidates for matching. The existing project record uses Python, Kafka, Spark Structured Streaming, and a presentation layer."
+  },
+  {
+    "objectID": "contributions/umatch/index.html#three-design-decisions",
+    "href": "contributions/umatch/index.html#three-design-decisions",
+    "title": "UMatch: matching over streaming data",
+    "section": "Three design decisions",
+    "text": "Three design decisions\n\n1. Construct the input streams\nThe project uses taxi-trip records and synthetic information to simulate two unbounded streams. Timestamps provide a basis for processing windows, but they do not provide a shared rider/driver identity key.\n\n\n2. Narrow the candidate join\nAn unrestricted Cartesian join compares every rider with every driver in a window. The documented approach instead introduces location-based keys through geohashes, grouping geographically nearby candidates before matching.\n\n\n3. Apply greedy distance matching\nWithin those groups, the project applies a greedy assignment using a Haversine-distance condition. This is an engineering trade-off rather than a claim of globally optimal matching. Group boundaries, windowing, unmatched requests, and local density are relevant to interpreting the approach."
+  },
+  {
+    "objectID": "contributions/umatch/index.html#pipeline-architecture",
+    "href": "contributions/umatch/index.html#pipeline-architecture",
+    "title": "UMatch: matching over streaming data",
+    "section": "Pipeline architecture",
+    "text": "Pipeline architecture\n\n\n\nExisting UMatch pipeline architecture\n\n\nThe architecture illustration connects stored data, Kafka, stream processing, and the presentation components. The source repository, slides, and recorded demo provide the supporting implementation material."
+  },
+  {
+    "objectID": "contributions/umatch/index.html#what-a-fuller-evaluation-should-document",
+    "href": "contributions/umatch/index.html#what-a-fuller-evaluation-should-document",
+    "title": "UMatch: matching over streaming data",
+    "section": "What a fuller evaluation should document",
+    "text": "What a fuller evaluation should document\nA reproducible evaluation would identify data selection and simulation rules, window sizes, grouping parameters, workload density, baselines, hardware, and matching quality as well as latency. The repository includes historical project material, but this page does not turn it into a newly reproduced benchmark.\n\nCurrent record: engineering project with source, architecture, slides, and a demonstration. Numerical results and independent use should be added only with their supporting records.\n\nMore projects · Research workflow"
+  },
+  {
+    "objectID": "media/index.html",
+    "href": "media/index.html",
+    "title": "Media & independent coverage",
+    "section": "",
+    "text": "This section will collect external reporting, interviews, and profiles discussing my work. Each record will identify the source, author or interviewer, date, and the work covered. Promotional and independent material will be labeled accurately.\nWriting · Recognition overview"
+  },
+  {
+    "objectID": "media/index.html#coverage-entries-forthcoming",
+    "href": "media/index.html#coverage-entries-forthcoming",
+    "title": "Media & independent coverage",
+    "section": "Coverage entries forthcoming",
+    "text": "Coverage entries forthcoming\nNo media records have been added here yet. My own articles are listed separately under Writing; they are not presented as independent coverage."
+  },
+  {
+    "objectID": "publications/git-archive-data-pipeline/index.html",
+    "href": "publications/git-archive-data-pipeline/index.html",
+    "title": "Git-Archive Data Pipeline",
+    "section": "",
+    "text": "Thesis · CSU Fullerton · 2019"
+  },
+  {
+    "objectID": "publications/git-archive-data-pipeline/index.html#research-focus",
+    "href": "publications/git-archive-data-pipeline/index.html#research-focus",
+    "title": "Git-Archive Data Pipeline",
+    "section": "Research focus",
+    "text": "Research focus\nMy thesis explores scalable data-pipeline design, contrasting batch and stream processing and describing an implementation with Apache Kafka and Apache Flink. The research objective is to examine streaming graph processing in Flink, including its performance and scalability.\nThis summary follows the thesis description on my LinkedIn profile. The ProQuest record confirms the title, author, institution, year, and publication number; this page does not present a new evaluation or independently reproduced benchmark."
+  },
+  {
+    "objectID": "publications/git-archive-data-pipeline/index.html#related-repository-and-attribution",
+    "href": "publications/git-archive-data-pipeline/index.html#related-repository-and-attribution",
+    "title": "Git-Archive Data Pipeline",
+    "section": "Related repository and attribution",
+    "text": "Related repository and attribution\nThe Network Pulse / Git Archive project page records the provenance of the related repository in my account. That repository is a fork, and its upstream implementation remains credited separately from my authorship of this thesis."
+  },
+  {
+    "objectID": "publications/git-archive-data-pipeline/index.html#citation",
+    "href": "publications/git-archive-data-pipeline/index.html#citation",
+    "title": "Git-Archive Data Pipeline",
+    "section": "Citation",
+    "text": "Citation\n\n\nSolanki, Raxitkumar. 2019. “Git-Archive Data Pipeline.” Thesis, California State University, Fullerton. https://www.proquest.com/openview/5a4fb35703a55c8bc80f0cfb7187441a/1?pq-origsite=gscholar&cbl=18750&diss=y.\n\n\nAll published artifacts · Research overview"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Published artifacts from my work in streaming systems, distributed data analysis, applied machine learning, educational software, and IoT security. Each record includes its author list, publication details, source links, and downloadable BibTeX. Names are retained as printed in the original records."
+  },
+  {
+    "objectID": "publications/index.html#thesis",
+    "href": "publications/index.html#thesis",
+    "title": "Publications",
+    "section": "Thesis",
+    "text": "Thesis\n\nGit-Archive Data Pipeline\nRaxitkumar Solanki · 2019 · California State University, Fullerton. ProQuest Dissertations & Theses, publication no. 13864765.\nScalable pipeline design and streaming graph processing with Apache Kafka and Apache Flink.\n\nRecord ProQuest BibTeX"
+  },
+  {
+    "objectID": "publications/index.html#conference-papers",
+    "href": "publications/index.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference papers",
+    "text": "Conference papers\n\nPrediction of Crop Cultivation\nNeha Rale, Raxitkumar Solanki, Doina Bein, James Andro-Vasko, and Wolfgang Bein. IEEE CCWC 2019, pp. 0227–0232.\nA comparison of regression methods for crop-yield prediction using five-fold cross-validation.\n\nRecord DOI / paper BibTeX\n\n\n\nStudy of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout\nRaxitkumar Solanki, Sree Harsha Ravilla, and Doina Bein. IEEE CCWC 2019, pp. 0252–0257.\nDistributed data processing and an Apache Mahout analysis of book-publication patterns across authors’ age groups.\n\nRecord DOI / paper BibTeX"
+  },
+  {
+    "objectID": "publications/index.html#journal-articles",
+    "href": "publications/index.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\nOnline Examination Empowerment\nRaxit Solanki · July 2016 · International Research Journal of Engineering and Technology, 3(7), 1106–1110.\nA Java-based framework for online examination preparation, developed and tested at Ganpat University’s U.V. Patel College of Engineering.\n\nRecord Publisher PDF BibTeX\n\n\n\nAccustoms of IOT and Security Concerns\nRaxit Solanki · July 2016 · International Research Journal of Engineering and Technology, 3(7), 1332–1336.\nA survey of IoT applications and security concerns, including privacy, authentication, encryption, and device updates.\n\nRecord Publisher PDF BibTeX"
+  },
+  {
+    "objectID": "publications/index.html#about-these-records",
+    "href": "publications/index.html#about-these-records",
+    "title": "Publications",
+    "section": "About these records",
+    "text": "About these records\nThese works are listed on my LinkedIn profile. Publication details follow ProQuest, IEEE’s Crossref deposits, and the IRJET archive/PDFs. Dates use the precision available in those sources; the IRJET issue dates both articles to July 2016. Bibliographic verification is distinct from independent validation of a paper’s findings.\n\nResearch overview Engineering projects Paper analyses"
+  },
+  {
+    "objectID": "publications/online-examination-empowerment/index.html",
+    "href": "publications/online-examination-empowerment/index.html",
+    "title": "Online Examination Empowerment",
+    "section": "",
+    "text": "Journal article · IRJET · July 2016"
+  },
+  {
+    "objectID": "publications/online-examination-empowerment/index.html#research-focus",
+    "href": "publications/online-examination-empowerment/index.html#research-focus",
+    "title": "Online Examination Empowerment",
+    "section": "Research focus",
+    "text": "Research focus\nThe article describes a web-based preparation environment for online competitive examinations, initially focused on GATE. The framework separates administrator, coordinator, and student roles and uses Java, Struts, Hibernate, MySQL, and Tomcat. Its design includes a database schema and UML models of the application."
+  },
+  {
+    "objectID": "publications/online-examination-empowerment/index.html#project-context",
+    "href": "publications/online-examination-empowerment/index.html#project-context",
+    "title": "Online Examination Empowerment",
+    "section": "Project context",
+    "text": "Project context\nThe paper documents development and local testing at Uttkarsh Research Centre, U.V. Patel College of Engineering, Ganpat University, and acknowledges guidance from Prof. Rakesh D. Vanzara and Prof. Ketan J. Sarvakar. I am the sole listed author.\nThe proposed educational benefits should be distinguished from measured learning outcomes; this record does not assert a controlled evaluation of student performance."
+  },
+  {
+    "objectID": "publications/online-examination-empowerment/index.html#publication-details",
+    "href": "publications/online-examination-empowerment/index.html#publication-details",
+    "title": "Online Examination Empowerment",
+    "section": "Publication details",
+    "text": "Publication details\nThe date and journal name above follow the publisher’s issue archive and printed PDF. Both place the article in July 2016. The PDF remains hosted by the publisher rather than being redistributed here."
+  },
+  {
+    "objectID": "publications/online-examination-empowerment/index.html#citation",
+    "href": "publications/online-examination-empowerment/index.html#citation",
+    "title": "Online Examination Empowerment",
+    "section": "Citation",
+    "text": "Citation\n\n\nSolanki, Raxit. 2016. “Online Examination Empowerment.” International Research Journal of Engineering and Technology 3 (7): 1106–10. https://www.irjet.net/archives/V3/i7/IRJET-V3I7202.pdf.\n\n\nAll published artifacts · Research background"
+  },
+  {
+    "objectID": "reading/index.html",
+    "href": "reading/index.html",
+    "title": "Paper analyses",
+    "section": "",
+    "text": "Reading notes examine another work’s question, method, evidence, and limitations. They identify the exact source and version, distinguish its claims from my own interpretation, and state what I actually checked.\nResearch · Publications · Reviewing & service"
+  },
+  {
+    "objectID": "reading/index.html#paper-analyses-forthcoming",
+    "href": "reading/index.html#paper-analyses-forthcoming",
+    "title": "Paper analyses",
+    "section": "Paper analyses forthcoming",
+    "text": "Paper analyses forthcoming\nNo reading notes have been added here yet. This collection will remain distinct from my own publications and formal reviewing service."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research & technical work",
+    "section": "",
+    "text": "My published work spans streaming data pipelines, distributed analytics, crop-yield prediction, educational software, and IoT security. These experiences inform my current interests in streaming systems, machine-learning infrastructure, and reproducible research tools.\nThis page distinguishes published work, current interests, and engineering projects, with links to the underlying artifacts."
+  },
+  {
+    "objectID": "research/index.html#working-themes",
+    "href": "research/index.html#working-themes",
+    "title": "Research & technical work",
+    "section": "Working themes",
+    "text": "Working themes\n\n\nStreaming computation\nConstructing inputs, joining streams, narrowing candidate sets, and reasoning about changing data. UMatch is an engineering starting point.\n\n\nML & data infrastructure\nConnecting data pipelines, real-time services, cloud systems, and operational reliability. See my engineering background.\n\n\nReproducible workflows\nConnecting source discovery, implementation, and reviewable artifacts in the research-writing framework."
+  },
+  {
+    "objectID": "research/index.html#published-research",
+    "href": "research/index.html#published-research",
+    "title": "Research & technical work",
+    "section": "Published research",
+    "text": "Published research\n\nStreaming pipelines and distributed analytics: Git-Archive Data Pipeline (thesis, 2019) and the Hadoop / Apache Mahout paper (IEEE CCWC, 2019).\nApplied machine learning: Prediction of Crop Cultivation (IEEE CCWC, 2019), comparing regression approaches for an agricultural prediction task.\nEducational systems: Online Examination Empowerment (IRJET, 2016), documenting a Java-based examination-preparation framework.\nConnected-device security: Accustoms of IOT and Security Concerns (IRJET, 2016), a survey of existing security concerns and reports.\n\nComplete author lists, publication details, and citations"
+  },
+  {
+    "objectID": "research/index.html#current-studies-experiments",
+    "href": "research/index.html#current-studies-experiments",
+    "title": "Research & technical work",
+    "section": "Current studies & experiments",
+    "text": "Current studies & experiments\n\nNew experiment records forthcoming\nFuture protocols, replications, and evaluations will be documented here with their supporting artifacts. These working records will distinguish exploratory ideas from completed evaluations and are separate from the publications above."
+  },
+  {
+    "objectID": "research/index.html#related-collections",
+    "href": "research/index.html#related-collections",
+    "title": "Research & technical work",
+    "section": "Related collections",
+    "text": "Related collections\n\nPublications Paper analyses Projects & contributions Reviewing & service"
+  },
+  {
+    "objectID": "research/index.html#from-question-to-artifact",
+    "href": "research/index.html#from-question-to-artifact",
+    "title": "Research & technical work",
+    "section": "From question to artifact",
+    "text": "From question to artifact\nA complete record connects the question and prior work to a method, implementation, evaluation, bounded conclusion, and reproducible artifact. It records limitations, negative results, and changes to the original plan—not only successful outcomes."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks and demonstrations",
+    "section": "",
+    "text": "A project demonstration of streaming ride-to-driver matching. This is a self-published demo, not an invited conference presentation.\n\nProject description and source code.\nFuture presentations will link their slides, recordings, transcripts, and related artifacts here."
+  },
+  {
+    "objectID": "talks/index.html#umatch-demonstration",
+    "href": "talks/index.html#umatch-demonstration",
+    "title": "Talks and demonstrations",
+    "section": "",
+    "text": "A project demonstration of streaming ride-to-driver matching. This is a self-published demo, not an invited conference presentation.\n\nProject description and source code.\nFuture presentations will link their slides, recordings, transcripts, and related artifacts here."
+  }
+]
