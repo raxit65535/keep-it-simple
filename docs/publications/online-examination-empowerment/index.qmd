@@ -1,0 +1,52 @@
+---
+title: Online Examination Empowerment
+description: A 2016 journal article describing a Java-based examination-preparation framework developed at Ganpat University.
+kind: publication
+publication-status: published
+evidence-status: bibliographic-record-checked
+draft: false
+bibliography: references.bib
+nocite: "@solanki2016examination"
+---
+
+[Journal article · IRJET · July 2016]{.record-type}
+
+- **Author:** Raxit Solanki
+- **Journal:** International Research Journal of Engineering and Technology (IRJET)
+- **Published:** July 2016, volume 3, issue 7, pages 1106–1110
+- **Affiliation printed in the paper:** U.V. Patel College of Engineering
+
+::: {.artifact-links}
+[Publisher PDF](https://www.irjet.net/archives/V3/i7/IRJET-V3I7202.pdf)
+[Issue archive](https://www.irjet.net/volume3-issue07)
+[BibTeX](references.bib)
+:::
+
+## Research focus
+
+The article describes a web-based preparation environment for online competitive
+examinations, initially focused on GATE. The framework separates administrator,
+coordinator, and student roles and uses Java, Struts, Hibernate, MySQL, and Tomcat.
+Its design includes a database schema and UML models of the application.
+
+## Project context
+
+The paper documents development and local testing at Uttkarsh Research Centre,
+U.V. Patel College of Engineering, Ganpat University, and acknowledges guidance
+from Prof. Rakesh D. Vanzara and Prof. Ketan J. Sarvakar. I am the sole listed author.
+
+The proposed educational benefits should be distinguished from measured learning
+outcomes; this record does not assert a controlled evaluation of student performance.
+
+## Publication details
+
+The date and journal name above follow the publisher's issue archive and printed
+PDF. Both place the article in **July 2016**. The PDF remains hosted by the publisher
+rather than being redistributed here.
+
+## Citation
+
+::: {#refs}
+:::
+
+[All published artifacts](../index.qmd) · [Research background](../../about/index.qmd#research-and-publications)

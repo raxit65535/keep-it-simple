@@ -1,0 +1,31 @@
+---
+title: Working paper analysis
+author:
+  - name: Raxit Solanki
+description: Unpublished critical reading note.
+kind: paper-analysis
+evidence-status: unverified
+draft: true
+---
+
+## Citation and version
+
+Identify the exact paper version and persistent identifier. Set bibliography
+metadata to a local BibTeX file before using citations.
+
+## Problem
+
+## Contribution
+
+Distinguish the paper's claims from your own assessment.
+
+## Method and evidence
+
+## Limitations
+
+## What I verified
+
+State whether you read the full text, checked calculations, or reproduced code.
+Do not imply that reading a summary is independent verification.
+
+## Implications

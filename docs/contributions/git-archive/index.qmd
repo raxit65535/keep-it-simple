@@ -1,0 +1,46 @@
+---
+title: Network Pulse / Git Archive
+description: A forked streaming graph-analysis repository, with upstream attribution.
+kind: project
+evidence-status: self-described
+project-origin: fork
+---
+
+::: {.record-summary}
+**Repository origin:** the repository in my account is a fork of
+[drfloob/literate-garbanzo](https://github.com/drfloob/literate-garbanzo), the
+upstream Network Pulse project. Upstream design and benchmark claims are not
+presented here as my original work.
+:::
+
+## Repository and context
+
+[Repository in my account](https://github.com/raxit65535/literate-garbanzo)
+
+Network Pulse explores clustering interactions in GitHub event streams with a
+distributed data pipeline. The upstream README describes the stream simulation,
+filtering, graph-processing, persistence, and visualization components.
+
+![Architecture illustration retained from the earlier portfolio record](/assets/about/projects/git-archive.jpg)
+
+## Related authored publication
+
+My 2019 CSUF thesis,
+[Git-Archive Data Pipeline](../../publications/git-archive-data-pipeline/index.qmd),
+is archived by ProQuest under publication number **13864765**. It addresses
+scalable pipelines and streaming graph processing with Kafka and Flink.
+
+The thesis has its own bibliographic record. Authorship of that thesis does not
+replace the upstream attribution or establish which changes I made to this fork.
+
+## Repository contribution record
+
+::: {.collection-empty}
+### Attribution details forthcoming
+
+My specific changes, experiments, or collaborative role have not been documented
+on this page yet. Those details should be accompanied by commits or other
+appropriate records before this is presented as a personal contribution.
+:::
+
+[Upstream project ↗](https://github.com/drfloob/literate-garbanzo) · [All projects](../index.qmd)

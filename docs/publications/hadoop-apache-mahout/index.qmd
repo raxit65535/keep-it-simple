@@ -1,0 +1,47 @@
+---
+title: Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout
+description: A first-authored CCWC 2019 conference paper exploring distributed data analysis with Hadoop and Apache Mahout.
+kind: publication
+publication-status: published
+evidence-status: bibliographic-record-checked
+draft: false
+bibliography: references.bib
+nocite: "@solanki2019hadoop"
+---
+
+[Conference paper · IEEE CCWC · January 2019]{.record-type}
+
+- **Authors:** Raxitkumar Solanki, Sree Harsha Ravilla, and Doina Bein
+- **Venue:** 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC)
+- **Published:** January 2019, pages 0252–0257
+- **DOI:** [10.1109/CCWC.2019.8666529](https://doi.org/10.1109/CCWC.2019.8666529)
+
+::: {.artifact-links}
+[Paper / DOI](https://doi.org/10.1109/CCWC.2019.8666529)
+[Publication metadata](https://api.crossref.org/works/10.1109/CCWC.2019.8666529)
+[BibTeX](references.bib)
+:::
+
+## Research focus
+
+This paper explores Hadoop-based distributed data processing and introduces
+machine-learning analysis with Apache Mahout. Its example investigates book
+publication patterns across authors' age groups and calendar years, connecting
+scalable storage and processing to an applied analysis task.
+
+I am the first-listed author, alongside Sree Harsha Ravilla and Doina Bein. The
+work is part of my background in distributed systems and data analysis.
+
+## Source and scope
+
+Bibliographic details follow IEEE's metadata deposited with Crossref. The summary
+follows the abstract on my [LinkedIn profile](https://www.linkedin.com/in/raxit65535/).
+This page is a publication record, not an independent validation of the study's
+predictions or a claim of a separately released reproduction package.
+
+## Citation
+
+::: {#refs}
+:::
+
+[All published artifacts](../index.qmd) · [Research overview](../../research/index.qmd)

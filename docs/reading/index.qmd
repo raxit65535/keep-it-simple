@@ -1,0 +1,20 @@
+---
+title: Paper analyses
+description: Critical reading notes, distinct from original research and formal peer review.
+record-status: awaiting-entries
+toc: false
+---
+
+Reading notes examine another work's question, method, evidence, and limitations.
+They identify the exact source and version, distinguish its claims from my own
+interpretation, and state what I actually checked.
+
+::: {.collection-empty}
+## Paper analyses forthcoming
+
+No reading notes have been added here yet. This collection will remain distinct
+from my own publications and formal reviewing service.
+:::
+
+[Research](../research/index.qmd) · [Publications](../publications/index.qmd) ·
+[Reviewing & service](../service/index.qmd)

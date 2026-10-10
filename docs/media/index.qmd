@@ -1,0 +1,21 @@
+---
+title: Media & independent coverage
+description: External coverage of the work, linked to its original source.
+record-status: awaiting-entries
+draft: false
+toc: false
+---
+
+This section will collect external reporting, interviews, and profiles discussing
+my work. Each record will identify the source, author or interviewer, date,
+and the work covered. Promotional and independent material will be labeled
+accurately.
+
+::: {.collection-empty}
+## Coverage entries forthcoming
+
+No media records have been added here yet. My own articles are listed separately
+under Writing; they are not presented as independent coverage.
+:::
+
+[Writing](../writing/index.qmd) · [Recognition overview](../recognition/index.qmd)

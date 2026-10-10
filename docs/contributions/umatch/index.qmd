@@ -1,0 +1,68 @@
+---
+title: "UMatch: matching over streaming data"
+description: Constructing streams, narrowing candidate joins, and applying greedy distance matching.
+kind: project
+evidence-status: self-described
+---
+
+::: {.artifact-links}
+[Source code ↗](https://github.com/raxit65535/umatch)
+[Recorded demo ↗](https://www.youtube.com/watch?v=JHGOzwrlW8s)
+[Slides ↗](https://docs.google.com/presentation/d/1nU3rWpFfQganNrtOrHuxNptB9rt6fwZElzJAdsZ7r_4/edit)
+:::
+
+## The problem
+
+UMatch explores matching ride requests to nearby drivers within a streaming
+window. The engineering challenge begins before the matching step: historical
+taxi-trip records describe completed trips, rather than continuously available
+drivers and waiting riders.
+
+The [repository's documented design](https://github.com/raxit65535/umatch)
+constructs separate rider and driver-location streams, then joins plausible
+candidates for matching. The existing project record uses Python, Kafka,
+Spark Structured Streaming, and a presentation layer.
+
+## Three design decisions
+
+### 1. Construct the input streams
+
+The project uses taxi-trip records and synthetic information to simulate two
+unbounded streams. Timestamps provide a basis for processing windows, but they
+do not provide a shared rider/driver identity key.
+
+### 2. Narrow the candidate join
+
+An unrestricted Cartesian join compares every rider with every driver in a
+window. The documented approach instead introduces location-based keys through
+geohashes, grouping geographically nearby candidates before matching.
+
+### 3. Apply greedy distance matching
+
+Within those groups, the project applies a greedy assignment using a
+Haversine-distance condition. This is an engineering trade-off rather than a
+claim of globally optimal matching. Group boundaries, windowing, unmatched
+requests, and local density are relevant to interpreting the approach.
+
+## Pipeline architecture
+
+![Existing UMatch pipeline architecture](/assets/about/projects/umatch.png)
+
+The architecture illustration connects stored data, Kafka, stream processing,
+and the presentation components. The source repository, slides, and recorded
+demo provide the supporting implementation material.
+
+## What a fuller evaluation should document
+
+A reproducible evaluation would identify data selection and simulation rules,
+window sizes, grouping parameters, workload density, baselines, hardware, and
+matching quality as well as latency. The repository includes historical project
+material, but this page does not turn it into a newly reproduced benchmark.
+
+::: {.record-summary}
+**Current record:** engineering project with source, architecture, slides, and a
+demonstration. Numerical results and independent use should be added only with
+their supporting records.
+:::
+
+[More projects](../index.qmd) · [Research workflow](../../research/index.qmd)

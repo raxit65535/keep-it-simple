@@ -1,0 +1,2 @@
+# Native listing data with zero items keeps the empty collection warning-free.
+[]

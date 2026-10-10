@@ -1,0 +1,70 @@
+---
+title: Projects & contributions
+description: Engineering decisions, implementations, and the artifacts behind the work.
+toc: false
+---
+
+The useful part of a project is often the reasoning behind it: what the problem
+was, why a particular approach was chosen, and what a reader can inspect or reproduce.
+
+## Selected engineering work
+
+::: {.work-entry}
+::: {.work-media}
+![Rider and driver matching diagram](/assets/diagrams/matching.svg)
+:::
+::: {.work-description}
+[Engineering project · streaming systems]{.record-type}
+
+### [UMatch](umatch/index.qmd)
+
+Constructing rider and driver streams, grouping candidates geographically,
+and applying greedy matching in a streaming window.
+
+::: {.artifact-links}
+[Case study](umatch/index.qmd)
+[Code ↗](https://github.com/raxit65535/umatch)
+[Demo ↗](https://www.youtube.com/watch?v=JHGOzwrlW8s)
+:::
+:::
+:::
+
+::: {.work-entry}
+::: {.work-media}
+![Sources flowing into a research artifact](/assets/diagrams/research-workflow.svg)
+:::
+::: {.work-description}
+[Research infrastructure · autonomous workflows]{.record-type}
+
+### [Research-writing framework](research-workflows/index.qmd)
+
+A LangGraph workflow connecting discovery, synthesis, source metadata, Quarto
+artifacts, and a reviewed release process.
+
+::: {.artifact-links}
+[Architecture](research-workflows/index.qmd)
+[Repository ↗](https://github.com/raxit65535/keep-it-simple)
+:::
+:::
+:::
+
+## Additional repositories
+
+These repositories are forks. Their pages retain upstream credit and leave room
+to document my specific changes or experiments rather than attributing all
+upstream work to me.
+
+- [Network Pulse / Git Archive](git-archive/index.qmd)
+- [Recommendations and MapReduce](batch-recommendations/index.qmd)
+
+## Original studies & new artifacts
+
+::: {.collection-empty}
+### Additional contribution records forthcoming
+
+Future entries will describe the specific contribution, my role, evaluation,
+reproduction instructions, and any documented external use. No additional
+original contributions are asserted by this placeholder.
+:::
+
+[Research](../research/index.qmd) · [Publications](../publications/index.qmd)

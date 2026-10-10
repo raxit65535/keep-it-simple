@@ -1,0 +1,46 @@
+---
+title: Accustoms of IOT and Security Concerns
+description: A 2016 survey article on Internet of Things applications, privacy, authentication, encryption, and device updates.
+kind: publication
+publication-status: published
+evidence-status: bibliographic-record-checked
+draft: false
+bibliography: references.bib
+nocite: "@solanki2016iot"
+---
+
+[Survey article · IRJET · July 2016]{.record-type}
+
+- **Author:** Raxit Solanki
+- **Journal:** International Research Journal of Engineering and Technology (IRJET)
+- **Published:** July 2016, volume 3, issue 7, pages 1332–1336
+- **Affiliation printed in the paper:** U.V. Patel College of Engineering
+
+::: {.artifact-links}
+[Publisher PDF](https://www.irjet.net/archives/V3/i7/IRJET-V3I7247.pdf)
+[Issue archive](https://www.irjet.net/volume3-issue07)
+[BibTeX](references.bib)
+:::
+
+## Research focus
+
+This survey examines IoT applications and their security implications, including
+privacy, unauthorized access, encryption, software updates, and constraints on
+connected devices. It brings together prior reports and examples to describe
+security challenges across consumer and enterprise settings.
+
+## Contribution and historical context
+
+I am the sole listed author. The contribution is a survey and synthesis of
+existing material, not a claim to have discovered the vulnerabilities it discusses.
+Its forecasts and technology examples belong to the **2016** context and should
+not be read as current measurements or present-day security guidance.
+
+The title, author, issue date, and page range follow the publisher's PDF and archive.
+
+## Citation
+
+::: {#refs}
+:::
+
+[All published artifacts](../index.qmd) · [Research background](../../about/index.qmd#research-and-publications)

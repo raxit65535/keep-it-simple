@@ -1,0 +1,37 @@
+---
+title: Recommendations and MapReduce pipelines
+description: A forked Hadoop and data-analysis repository, with space for a specific contribution record.
+kind: project
+evidence-status: self-described
+project-origin: fork
+---
+
+::: {.record-summary}
+**Repository origin:** this repository is a fork of
+[Shashwat21/Big-Data-FInals](https://github.com/Shashwat21/Big-Data-FInals).
+The existence of the fork does not establish authorship of all its contents.
+:::
+
+## Repository and material
+
+[Repository in my account](https://github.com/raxit65535/Big-Data-FInals)
+
+The repository describes data analysis using Hadoop, Mahout, Hive, MapReduce,
+R, and Python. The earlier portfolio also contains the following recommendation
+and MapReduce illustrations.
+
+![Recommendation pipeline illustration](/assets/about/projects/recommendation.png)
+
+![MapReduce pipeline illustration](/assets/about/projects/map-reduce.png)
+
+## Personal contribution record
+
+::: {.collection-empty}
+### Attribution details forthcoming
+
+My particular implementation, analysis, or collaborative role can be documented
+here with supporting source records. No upstream results are claimed as my own
+by this placeholder.
+:::
+
+[Upstream project ↗](https://github.com/Shashwat21/Big-Data-FInals) · [All projects](../index.qmd)

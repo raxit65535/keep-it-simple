@@ -1,0 +1,25 @@
+---
+title: Working presentation record
+author:
+  - name: Raxit Solanki
+description: Unpublished presentation record.
+kind: talk
+draft: true
+---
+
+## Context
+
+Identify the event, date, and whether this is an invited talk, submitted talk,
+or self-published demonstration.
+
+## Recording
+
+## Slides
+
+For a separate slides source, use `format: revealjs` in its YAML and write slides
+with level-two headings. Render it separately with Quarto; do not switch the
+whole website to RevealJS or publish speaker notes inadvertently.
+
+## Transcript
+
+## Related work

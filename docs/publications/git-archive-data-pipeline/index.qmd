@@ -1,0 +1,50 @@
+---
+title: Git-Archive Data Pipeline
+description: A 2019 thesis on scalable data pipelines and streaming graph processing with Apache Kafka and Apache Flink.
+kind: publication
+publication-status: published
+evidence-status: bibliographic-record-checked
+draft: false
+bibliography: references.bib
+nocite: "@solanki2019gitarchive"
+---
+
+[Thesis · CSU Fullerton · 2019]{.record-type}
+
+- **Author:** Raxitkumar Solanki
+- **Institution:** California State University, Fullerton
+- **Archive:** ProQuest Dissertations & Theses
+- **Year:** 2019
+- **ProQuest publication number:** 13864765
+
+::: {.artifact-links}
+[ProQuest record](https://www.proquest.com/openview/5a4fb35703a55c8bc80f0cfb7187441a/1?pq-origsite=gscholar&cbl=18750&diss=y)
+[BibTeX](references.bib)
+[Repository context](../../contributions/git-archive/index.qmd)
+:::
+
+## Research focus
+
+My thesis explores scalable data-pipeline design, contrasting batch and stream
+processing and describing an implementation with Apache Kafka and Apache Flink.
+The research objective is to examine streaming graph processing in Flink,
+including its performance and scalability.
+
+This summary follows the thesis description on my
+[LinkedIn profile](https://www.linkedin.com/in/raxit65535/). The ProQuest record
+confirms the title, author, institution, year, and publication number; this page
+does not present a new evaluation or independently reproduced benchmark.
+
+## Related repository and attribution
+
+The [Network Pulse / Git Archive project page](../../contributions/git-archive/index.qmd)
+records the provenance of the related repository in my account. That repository
+is a fork, and its upstream implementation remains credited separately from my
+authorship of this thesis.
+
+## Citation
+
+::: {#refs}
+:::
+
+[All published artifacts](../index.qmd) · [Research overview](../../research/index.qmd)

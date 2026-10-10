@@ -1,0 +1,102 @@
+---
+title: Publications
+description: A thesis, IEEE conference papers, and journal articles by Raxit Solanki, with citations and original-source links.
+record-status: populated
+draft: false
+toc: false
+---
+
+Published artifacts from my work in streaming systems, distributed data analysis,
+applied machine learning, educational software, and IoT security. Each record
+includes its author list, publication details, source links, and downloadable
+BibTeX. Names are retained as printed in the original records.
+
+## Thesis
+
+### [Git-Archive Data Pipeline](git-archive-data-pipeline/index.qmd)
+
+**Raxitkumar Solanki** · 2019 · California State University, Fullerton.
+ProQuest Dissertations & Theses, publication no. 13864765.
+
+Scalable pipeline design and streaming graph processing with Apache Kafka and
+Apache Flink.
+
+::: {.artifact-links}
+[Record](git-archive-data-pipeline/index.qmd)
+[ProQuest](https://www.proquest.com/openview/5a4fb35703a55c8bc80f0cfb7187441a/1?pq-origsite=gscholar&cbl=18750&diss=y)
+[BibTeX](git-archive-data-pipeline/references.bib)
+:::
+
+## Conference papers
+
+### [Prediction of Crop Cultivation](prediction-of-crop-cultivation/index.qmd)
+
+Neha Rale, **Raxitkumar Solanki**, Doina Bein, James Andro-Vasko, and Wolfgang Bein.
+**IEEE CCWC 2019**, pp. 0227–0232.
+
+A comparison of regression methods for crop-yield prediction using five-fold
+cross-validation.
+
+::: {.artifact-links}
+[Record](prediction-of-crop-cultivation/index.qmd)
+[DOI / paper](https://doi.org/10.1109/CCWC.2019.8666445)
+[BibTeX](prediction-of-crop-cultivation/references.bib)
+:::
+
+### [Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout](hadoop-apache-mahout/index.qmd)
+
+**Raxitkumar Solanki**, Sree Harsha Ravilla, and Doina Bein.
+**IEEE CCWC 2019**, pp. 0252–0257.
+
+Distributed data processing and an Apache Mahout analysis of book-publication
+patterns across authors' age groups.
+
+::: {.artifact-links}
+[Record](hadoop-apache-mahout/index.qmd)
+[DOI / paper](https://doi.org/10.1109/CCWC.2019.8666529)
+[BibTeX](hadoop-apache-mahout/references.bib)
+:::
+
+## Journal articles
+
+### [Online Examination Empowerment](online-examination-empowerment/index.qmd)
+
+**Raxit Solanki** · July **2016** · *International Research Journal of Engineering
+and Technology*, **3**(7), 1106–1110.
+
+A Java-based framework for online examination preparation, developed and tested
+at Ganpat University's U.V. Patel College of Engineering.
+
+::: {.artifact-links}
+[Record](online-examination-empowerment/index.qmd)
+[Publisher PDF](https://www.irjet.net/archives/V3/i7/IRJET-V3I7202.pdf)
+[BibTeX](online-examination-empowerment/references.bib)
+:::
+
+### [Accustoms of IOT and Security Concerns](iot-security-concerns/index.qmd)
+
+**Raxit Solanki** · July **2016** · *International Research Journal of Engineering
+and Technology*, **3**(7), 1332–1336.
+
+A survey of IoT applications and security concerns, including privacy,
+authentication, encryption, and device updates.
+
+::: {.artifact-links}
+[Record](iot-security-concerns/index.qmd)
+[Publisher PDF](https://www.irjet.net/archives/V3/i7/IRJET-V3I7247.pdf)
+[BibTeX](iot-security-concerns/references.bib)
+:::
+
+## About these records
+
+These works are listed on my [LinkedIn profile](https://www.linkedin.com/in/raxit65535/).
+Publication details follow ProQuest, IEEE's Crossref deposits, and the IRJET
+archive/PDFs. Dates use the precision available in those sources; the IRJET issue
+dates both articles to July 2016. Bibliographic verification is distinct from
+independent validation of a paper's findings.
+
+::: {.intro-links}
+[Research overview](../research/index.qmd)
+[Engineering projects](../contributions/index.qmd)
+[Paper analyses](../reading/index.qmd)
+:::

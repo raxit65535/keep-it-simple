@@ -1,0 +1,29 @@
+---
+title: Working publication record
+author:
+  - name: Raxit Solanki
+description: Unpublished bibliographic record.
+kind: publication
+publication-status: working-note
+draft: true
+---
+
+## Status and venue
+
+Choose working-note, preprint, or peer-reviewed based on the actual publication.
+Record the venue, publication date, and version. A DOI alone is not peer review.
+
+## Abstract
+
+## Contribution
+
+## Paper
+
+## Code and data
+
+## Citation
+
+Provide verified bibliographic information. Keep the website HTML-only by
+default. Author a manuscript separately when PDF/LaTeX output is needed; use
+Quarto's manuscript workflow and install its additional rendering dependencies
+in that manuscript's environment, not in site CI.

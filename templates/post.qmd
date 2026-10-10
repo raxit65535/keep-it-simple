@@ -1,0 +1,27 @@
+---
+title: Working technical note
+author:
+  - name: Raxit Solanki
+description: Unpublished technical note.
+kind: post
+draft: true
+---
+
+<!-- Set the actual creation date before publishing. Keep drafts outside docs/. -->
+
+## Context
+
+Explain the problem and intended reader.
+
+## Explanation
+
+## Example
+
+Use ordinary code fences for display. Run experiments in their own environment;
+include only reviewed results in the website.
+
+## Limitations
+
+## References
+
+For citations, add a colocated .bib and a bibliography field, then cite with [@key].

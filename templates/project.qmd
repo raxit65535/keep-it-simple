@@ -1,0 +1,43 @@
+---
+title: Working research project
+author:
+  - name: Raxit Solanki
+description: Unpublished project record.
+kind: project
+research-stage: exploratory
+evidence-status: unverified
+draft: true
+---
+
+## Problem
+
+## Prior work
+
+## Personal contribution
+
+Separate your role from collaborators' work and existing methods.
+
+## Methodology
+
+Record hypotheses and falsification criteria where applicable, or assumptions
+and a proof strategy for theoretical work. Date protocol changes.
+
+## Evaluation
+
+Document baselines, data versions, configuration, seeds where relevant,
+uncertainty, negative results, and deviations from the original method.
+
+## Reproduce
+
+Provide exact commands, environment locks, hardware, code commits, and data checksums.
+
+## Artifacts
+
+Link versioned source, data references, releases, and papers. Large experiments
+belong in their own repository with their own dependencies.
+
+## External use
+
+Add factual, sourced examples only when they exist.
+
+## Limitations
